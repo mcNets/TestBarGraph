@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestBarGraph (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestBarGraph (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
